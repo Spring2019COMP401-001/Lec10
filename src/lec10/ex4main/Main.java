@@ -1,8 +1,8 @@
 package lec10.ex4main;
 
-import lec08.ex6.A;
-import lec08.ex6.SubA;
-import lec08.ex6.SubB;
+import lec10.ex4.A;
+import lec10.ex4.SubA;
+import lec10.ex4.SubB;
 
 public class Main {
 
